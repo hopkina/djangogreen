@@ -1,9 +1,9 @@
 # Map of Green Sites in Oxfordshire using Django and Leaflet
 
 ## Overview
-[[go_overview.png|alt=overview]]
+![Overview](go_overview.png?raw=true)
 
 ## Search function
-[[go_search.png|alt=search]]
+![Search](go_search.png?raw=true)
 
 
